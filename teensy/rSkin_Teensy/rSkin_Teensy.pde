@@ -1,6 +1,7 @@
 // WHITE Columns = analog read = INPUT
 // PINK Rows = digital write = OUTPUT
 
+//test!
 
 // We need 4 pins / multiplexer so that we can address the pin (1 of 16)
 // on the multiplexer that we want to turn on.
